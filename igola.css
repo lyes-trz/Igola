@@ -4,15 +4,13 @@
     outline: none;
     border: none;
     list-style: none;
-   // box-sizing: border-box;
+   
     font-family: 'Montserrat', sans-serif;
     color: #575757;
 }
 
 
-.relatedItems {
-   display: inline-flex;
-}
+
 
 p {
 	font-size: 14px;
@@ -272,6 +270,16 @@ footer {
 footer img {
 	float: right;
 }
+
+
+.relatedItems {
+   display: inline-flex;
+}
+
+
+
+
+
 @media only screen and (max-width: 840px) {
 	.store_features {
 		text-align: center;
