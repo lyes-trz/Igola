@@ -4,10 +4,16 @@
     outline: none;
     border: none;
     list-style: none;
-    box-sizing: border-box;
+   // box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     color: #575757;
 }
+
+
+.relatedItems {
+   display: inline-flex;
+}
+
 p {
 	font-size: 14px;
 	line-height: 24px;
